@@ -1,0 +1,64 @@
+[
+    {
+        "patientId": "P1001",
+        "firstName": "John",
+        "lastName": "Doe",
+        "height": 175,
+        "weight": 78,
+        "bmi": 25.5
+    },
+    {
+        "patientId": "P1002",
+        "firstName": "Sarah",
+        "lastName": "Smith",
+        "height": 165,
+        "weight": 58,
+        "bmi": 21.3
+    },
+    {
+        "patientId": "P1003",
+        "firstName": "David",
+        "lastName": "Johnson",
+        "height": 180,
+        "weight": 92,
+        "bmi": 28.4
+    },
+    {
+        "patientId": "P1004",
+        "firstName": "Priya",
+        "lastName": "Patel",
+        "height": 160,
+        "weight": 52,
+        "bmi": 20.3
+    },
+    {
+        "patientId": "P1005",
+        "firstName": "Amit",
+        "lastName": "Sharma",
+        "height": 172,
+        "weight": 70,
+        "bmi": 23.7
+    },
+    {
+        "patientId": "P1008",
+        "name": "New Doe",
+        "city": "Delhi",
+        "age": 30,
+        "gender": "male",
+        "height": 175.5,
+        "weight": 70.0,
+        "bmi": 22.727088254153784,
+        "verdict": "Normal weight"
+    },
+    {
+        "patientId": "P1009",
+        "name": "New Doe",
+        "city": "Delhi",
+        "age": 30,
+        "gender": "male",
+        "height": 175.5,
+        "weight": 70.0,
+        "bmi": 22.727088254153784,
+        "verdict": "Normal weight"
+    }
+]
